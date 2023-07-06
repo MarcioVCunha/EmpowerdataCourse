@@ -1,3 +1,5 @@
 Eu estou aprendendo a programar em Python.
 Eu estou estudando na EmpowerData.
 Estamos nesse momento no curso Dominando a Linguagem Python.
+
+Finalizando a escrita em arquivos com Python!

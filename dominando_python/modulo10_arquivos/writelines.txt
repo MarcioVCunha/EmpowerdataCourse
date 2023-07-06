@@ -1,0 +1,3 @@
+Eu adoro o Python.
+Estou aprendendo muito na formação.
+Estou aprendendo a manipular arquivos

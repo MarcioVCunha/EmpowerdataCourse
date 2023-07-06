@@ -1,0 +1,1 @@
+Escrevendo em um arquivo txt utilizando o bloco with!
